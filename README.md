@@ -43,6 +43,6 @@ Projects exploring practical AI engineering and system design:
 ### 🤝 Connect With Me
 
 - GitHub: [@SanjayBhat08](https://github.com/SanjayBhat08)
-- LinkedIn: [www.linkedin.com/in/sanjayshankarbhat]
+- LinkedIn: [Sanjay Shankar Bhat](www.linkedin.com/in/sanjayshankarbhat)
 
 I'm interested in AI engineering, open-source projects, technical discussions and building useful AI systems.
