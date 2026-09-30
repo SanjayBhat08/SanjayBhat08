@@ -17,7 +17,7 @@ My interests lie at the intersection of Large Language Models, Agentic AI, Knowl
 ### 🛠️ Tech Stack
 
 **Languages:** Python, SQL  
-**AI & LLM:** LangChain, LangGraph, Hugging Face
+**AI & LLM:** LangChain, LangGraph, Hugging Face  
 **Retrieval & Knowledge:** FAISS, BM25, Sentence Transformers, Knowledge Graphs  
 **Backend:** FastAPI, Pydantic, PostgreSQL  
 **Infrastructure & Tools:** Docker, Kubernetes, Git, GitHub Actions, Langfuse
